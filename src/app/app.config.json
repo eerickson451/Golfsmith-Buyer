@@ -1,13 +1,13 @@
 {
-  "appname": "Golfsmith Buyer",
-  "ocscope": "ProductReader BuyerReader CategoryReader AddressReader CostCenterReader CouponReader CreditCardReader EmailTemplateReader PriceScheduleReader SpendingAccountReader BuyerUserReader UserGroupReader ApprovalRuleReader OrderReader UnsubmittedOrderReader",
-  "clientid": "B6C1858A-CE45-49CE-A7DE-4AA5A237A844",
-  "buyerid": "Golfsmith",
-  "environment": "prod",
-  "base": {
-    "left":true,
-    "right":false,
-    "top":true,
-    "bottom":false
-  }
+	"appname": "Golfsmith-Buyer",
+	"ocscope": "FullAccess AddressReader ApprovalRuleReader BuyerReader BuyerUserReader CategoryReader CostCenterReader CreditCardReader EmailTemplateReader OrderReader PriceScheduleReader ProductReader PromotionReader SpendingAccountReader UnsubmittedOrderReader UserGroupReader",
+	"clientid": "B6C1858A-CE45-49CE-A7DE-4AA5A237A844",
+	"buyerid": "Golfsmith",
+	"environment": "prod",
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
 }
